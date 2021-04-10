@@ -1,6 +1,6 @@
 <h3> 🤠 &nbsp;Sobre mim </h3>
 
-- 👋 Hi, I’m @YanCardoso
+- 👋 🧙‍♂️Hi, I’m @YanCardoso
 
 
 
@@ -16,12 +16,13 @@
 
 - 📫 How to reach me
 
+
+
 __________________________________________________________________________________________________
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
-
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
