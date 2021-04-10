@@ -31,7 +31,7 @@ ________________________________________________________________________________
 
   [![YanCardoso](https://github-readme-stats.vercel.app/api/top-langs/?username=YanCardoso&hide=html&layout=compact&theme=dracula)](https://github.com/YanCardoso/)
 
-
+__________________________________________________________________________________________________
 
 **DevOps**
 
