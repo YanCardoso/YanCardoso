@@ -17,7 +17,6 @@
 - 📫 How to reach me
 
 
-
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
@@ -27,12 +26,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-
-
-
-
-
-
 
 
   [![YanCardoso](https://github-readme-stats.vercel.app/api/top-langs/?username=YanCardoso&hide=html&layout=compact&theme=dracula)](https://github.com/YanCardoso/)
